@@ -1,6 +1,7 @@
 # About this repo
 
 Small dApp built according to the requirement in: https://www.notion.so/dApps-exercise-bc8306dbf2304b248af19d8f6af87b74
+
 Contract address 0x36b26F6E2B32188e8bcD6624e8D1Af34f3fd374e is deployed in Rinkeby. To test locally please feel free to replace with the value in your local node
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
